@@ -10,12 +10,12 @@
 Você precisa usar o zerotier one, se conectarem na mesma instância e hospedar a campanha e o cliente deve se conectar atraves de campanhas alheias inserindo o ip e a porta. 
 
 # Coisas Adicionadas
-**Adicionar/Alterar**_ Mapa ✅
+**Adicionar/Alterar** Mapa ✅
 **Multiplayer** ✅ *Parcial*
-**Adicionar Tokens, duplicar, flip, rotate** ✅
-Chat ❌ (**Talvez seja adicionado na V1.0.1**)
-Sistema de escuridão ❌
-Mestre poder escurecer a tela do Jogador ❌
-Animações ❌
-Suporte a gifs ❌
-Sistema de rolagem de dados ❌
+**Adicionar Tokens, duplicar, flip, rotate** ✅ \n
+Chat ❌ (**Talvez seja adicionado na V1.0.1**) \n
+Sistema de escuridão ❌ \n
+Mestre poder escurecer a tela do Jogador ❌ \n
+Animações ❌ \n
+Suporte a gifs ❌ \n
+Sistema de rolagem de dados ❌ \n
