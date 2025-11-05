@@ -15,10 +15,10 @@ Você precisa usar o zerotier one, se conectarem na mesma instância e hospedar 
 # Coisas Adicionadas
 **Adicionar/Alterar** Mapa ✅
 **Multiplayer** ✅ *Parcial*
-**Adicionar Tokens, duplicar, flip, rotate** ✅ \n
-**Chat** ✅ *Parcial* \n
-Sistema de escuridão ❌ \n
-Mestre poder escurecer a tela do Jogador ❌ \n
-Animações ❌ \n
-Suporte a gifs ❌ \n
-**Sistema de rolagem de dados** ✅ *Parcial* \n
+**Adicionar Tokens, duplicar, flip, rotate** ✅ 
+**Chat** ✅ *Parcial* 
+Sistema de escuridão ❌ 
+Mestre poder escurecer a tela do Jogador ❌ 
+Animações ❌ 
+Suporte a gifs ❌ 
+**Sistema de rolagem de dados** ✅ *Parcial* 
