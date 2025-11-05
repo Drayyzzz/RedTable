@@ -16,9 +16,9 @@ Você precisa usar o zerotier one, se conectarem na mesma instância e hospedar 
 **Adicionar/Alterar** Mapa ✅
 **Multiplayer** ✅ *Parcial*
 **Adicionar Tokens, duplicar, flip, rotate** ✅ \n
-Chat ❌ (**Talvez seja adicionado na V1.0.1**) \n
+**Chat** ✅ *Parcial* \n
 Sistema de escuridão ❌ \n
 Mestre poder escurecer a tela do Jogador ❌ \n
 Animações ❌ \n
 Suporte a gifs ❌ \n
-Sistema de rolagem de dados ❌ \n
+**Sistema de rolagem de dados** ✅ *Parcial* \n
