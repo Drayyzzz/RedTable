@@ -1,5 +1,8 @@
 # RedTable
 
+# Icone
+<img width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/65740ec4-7df8-469c-878a-0bc4e91ab324" />
+
 # Interface
 <img width="1080" height="2137" alt="Image" src="https://github.com/user-attachments/assets/a5899016-e032-4a28-85bc-a062f53bd288" />
 
